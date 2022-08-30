@@ -1,3 +1,3 @@
 # hello-world
-repositorio para practicar
-me llamo ruscica y estoy practicando git
+<h1>My git practices</h1>
+<p>Mi name is Cesar Hernan Ruscica</p>
